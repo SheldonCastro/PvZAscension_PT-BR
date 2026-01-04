@@ -12,7 +12,7 @@ suficientes para comprar isso.
 Você sobreviveu bravamente à invasão zumbi em massa do quintal na frente. Agora você pode jogar o Nível Diário ou começar o segundo capítulo da aventura!
 
 [CHAPTER_COMPLETE_TWO]
-You survived the massive zombie invasion of your backyard magnificently once again. Now you can visit Lawn-Shinies, or start the third chapter of Adventure!
+Você sobreviveu magnificamente à enorme invasão de zumbis em seu quintal mais uma vez. Agora você pode visitar os Gramados-Brilhantes, ou começar o terceiro capítulo da sua aventura!
 
 [DAILY_LEVEL_INFO]
 Não liberado!
@@ -114,27 +114,27 @@ O que poderia ser mais poderoso que uma explosão!{MOUTH_SMALL_SMILE}{SCREAM}
 {NO_SOUND}{NO_CLICK}Essa skin do cortador de grama vai melhorar muito a sua aparência!
 
 [CRAZY_DAVE_5032]
-{NO_SOUND}{NO_CLICK}Melhoria de Ramificação Balística: 
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação Balística: 
 as vezes a planta pode atirar três projéteis ao mesmo tempo!
 
 [CRAZY_DAVE_5033]
-{NO_SOUND}{NO_CLICK}Melhoria de Acumulação Avançada: 
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
 as vezes a planta pode produzir o triplo de sóis ao mesmo tempo!
 
 [CRAZY_DAVE_5034]
-{NO_SOUND}{NO_CLICK}Melhoria de Criação de Descendentes:
+{NO_SOUND}{NO_CLICK}Melhoria da Criação de Descendentes:
 as vezes a planta pode deixar outra Batata-Mina após explodir!
 
 [CRAZY_DAVE_5035]
-{NO_SOUND}{NO_CLICK}Melhoria de Ramificação Balística: 
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação Balística: 
 as vezes a planta pode atirar três projéteis ao mesmo tempo!
 
 [CRAZY_DAVE_5036]
-{NO_SOUND}{NO_CLICK}Melhoria de Genoma Venenosa:
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Venenosa:
 as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5037]
-{NO_SOUND}{NO_CLICK}Melhoria de Criação de Descendentes:
+{NO_SOUND}{NO_CLICK}Melhoria da Criação de Descendentes:
 as vezes a planta pode deixar uma surpresa que é um estouro após explodir!
 
 [CRAZY_DAVE_5038]
@@ -142,128 +142,128 @@ as vezes a planta pode deixar uma surpresa que é um estouro após explodir!
 as vezes a planta pode crescer e ficar maior do que o normal, ganhando um alcance de disparo enorme!
 
 [CRAZY_DAVE_5039]
-{NO_SOUND}{NO_CLICK}Ballistic Branching upgrade:
-the plant can sometimes fire with triple shot!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação Balística:
+as vezes a planta pode atirar três projéteis ao mesmo tempo!
 
 [CRAZY_DAVE_5040]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade:
-the plant can sometimes produce triple suns at a time!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada:
+as vezes a planta pode produzir o triplo de sóis ao mesmo tempo!
 
 [CRAZY_DAVE_5041]
-{NO_SOUND}{NO_CLICK}Sudden Shock upgrade:
-the plant can sometimes start firing rapidly instead of hiding!
+{NO_SOUND}{NO_CLICK}Melhoria do Choque Repentino:
+as vezes a planta pode começar a disparar rapidamente em vez de se esconder!
 
 [CRAZY_DAVE_5042]
-{NO_SOUND}{NO_CLICK}Poison Genome upgrade:
-the plant can sometimes poison the zombie that eats it!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Venenosa:
+as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5043]
-{NO_SOUND}{NO_CLICK}Fume Weighting upgrade:
-the plant can sometimes push the zombie away!
+{NO_SOUND}{NO_CLICK}Melhoria da Ponderação de Fumaça:
+as vezes a planta pode empurrar os zumbis para trás!
 
 [CRAZY_DAVE_5044]
-{NO_SOUND}{NO_CLICK}Marigold Treaties upgrade:
-the plant can sometimes produce an additional diamond!
+{NO_SOUND}{NO_CLICK}Melhoria dos Tratados da Calêndula:
+as vezes a planta pode produzir um diamante adicional!
 
 [CRAZY_DAVE_5045]
-{NO_SOUND}{NO_CLICK}Instant Maturation upgrade: 
-the plant can sometimes recharge its action instantly!
+{NO_SOUND}{NO_CLICK}Melhoria da Maturação Instantânea: 
+as vezes a planta pode recarregar sua ação instantaneamente!
 
 [CRAZY_DAVE_5046]
-{NO_SOUND}{NO_CLICK}Directional Genome upgrade: 
-the plant can sometimes will appear with the ability to shoot two peas both directions!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Direcional: 
+as vezes a planta pode aparecer com a habilidade de disparar duas ervilhas em ambas as direções!
 
 [CRAZY_DAVE_5047]
-{NO_SOUND}{NO_CLICK}Fume Weighting upgrade:
-the plant can sometimes push the armor away!
+{NO_SOUND}{NO_CLICK}Melhoria da Ponderação de Fumaça:
+as vezes a planta pode empurrar a armadura para trás!
 
 [CRAZY_DAVE_5048]
-{NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
-the plant can sometimes appear with more toughness!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Resistente:
+as vezes a planta pode aparecer com mais resistência!
 
 [CRAZY_DAVE_5049]
-{NO_SOUND}{NO_CLICK}Superfreezing upgrade:
-the plant can sometimes fire a freezing projectile!
+{NO_SOUND}{NO_CLICK}Melhoria Supercongelante:
+as vezes a planta pode disparar um projétil congelante!
 
 [CRAZY_DAVE_5050]
-{NO_SOUND}{NO_CLICK}Explode Branching upgrade: 
-the plant can sometimes burn three lines instead of one! 
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação Explosiva: 
+as vezes a planta pode queimar três linhas de uma vez em vez de uma!
 
 [CRAZY_DAVE_5051]
-{NO_SOUND}{NO_CLICK}Art of Survival upgrade:
-the plant can sometimes survive contact with vehicles!
+{NO_SOUND}{NO_CLICK}Melhoria da Arte de Sobrevivência:
+as vezes a planta pode sobreviver ao contato com veículos!
 
 [CRAZY_DAVE_5052]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes release a sun after igniting the projectiles!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
+as vezes a planta pode soltar um sol após acender os projéteis!
 
 [CRAZY_DAVE_5053]
-{NO_SOUND}{NO_CLICK}Air Weighting upgrade:
-the plant can sometimes push the zombies away!
+{NO_SOUND}{NO_CLICK}Melhoria da Ponderação do Ar:
+as vezes a planta pode empurrar os zumbis para trás!
 
 [CRAZY_DAVE_5054]
-{NO_SOUND}{NO_CLICK}Sunflower Treaties upgrade:
-the plant can sometimes produce a big sun!
+{NO_SOUND}{NO_CLICK}Melhoria dos Tratados da Girassol:
+as vezes a planta pode produzir um sól grande!
 
 [CRAZY_DAVE_5055]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes produce triple suns at a time!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
+as vezes a planta pode produzir o triplo de sóis ao mesmo tempo!
 
 [CRAZY_DAVE_5056]
-{NO_SOUND}{NO_CLICK}Poison Genome upgrade:
-the plant can sometimes poison the zombie that eats it!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Venenosa:
+as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5057]
-{NO_SOUND}{NO_CLICK}Darkness Conversion upgrade:
-the plant can sometimes appear in a stronger form!
+{NO_SOUND}{NO_CLICK}Melhoria da Conversão à Escuridão:
+as vezes a planta pode aparecer mais forte que antes!
 
 [CRAZY_DAVE_5058]
-{NO_SOUND}{NO_CLICK}Hypnosis Genome upgrade:
-the plant can sometimes fire a hypno projectile!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Hipnótica:
+as vezes a planta pode disparar um projétil hipnótico!
 
 [CRAZY_DAVE_5059]
-{NO_SOUND}{NO_CLICK}Poison Genome upgrade:
-the plant can sometimes poison the zombie that eats it!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Venenosa:
+as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5060]
-{NO_SOUND}{NO_CLICK}Multidirection Genome upgrade:
-the plant can sometimes fire a round shot even without detecting the target!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Multidirecional:
+as vezes a planta pode disparar um tiro certeiro mesmo sem detectar o alvo!
 
 [CRAZY_DAVE_5061]
-{NO_SOUND}{NO_CLICK}Offspring Creation upgrade:
-the plant can sometimes leave another Tangle Kelp on the other side of the pool!
+{NO_SOUND}{NO_CLICK}Melhoria da Criação de Descendentes:
+as vezes a planta pode deixar outra Emaranhalga do outro lado da piscina!
 
 [CRAZY_DAVE_5062]
-{NO_SOUND}{NO_CLICK}Hypnosis Genome upgrade:
-the plant can sometimes fire a hypno projectile!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Hipnótica:
+as vezes a planta pode disparar um projétil hipnótico!
 
 [CRAZY_DAVE_5063]
-{NO_SOUND}{NO_CLICK}Art of Survival upgrade:
-the plant can sometimes not lose its health after contact with vehicles!
+{NO_SOUND}{NO_CLICK}Melhoria da Arte de Sobrevivência:
+as vezes a planta não perde seu hp após o contato com veículos!
 
 [CRAZY_DAVE_5064]
-{NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
-the plant can sometimes appear with more toughness!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Resistente:
+as vezes a planta pode aparecer com mais resistência!
 
 [CRAZY_DAVE_5065]
-{NO_SOUND}{NO_CLICK}Arc Branching upgrade:
-the plant can sometimes fire projectiles all over the line!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação do Arco:
+as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5066]
-{NO_SOUND}{NO_CLICK}Poison Genome upgrade:
-the plant can sometimes poison the zombie that eats it!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Venenosa:
+as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5067]
-{NO_SOUND}{NO_CLICK}Homing Genome upgrade:
-the plant can sometimes shoot out homing stars!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Teleguiada:
+as vezes a planta pode disparar estrelas teleguiadas!
 
 [CRAZY_DAVE_5068]
-{NO_SOUND}{NO_CLICK}Willpower upgrade:
-the plant can sometimes repeat his jump!
+{NO_SOUND}{NO_CLICK}Melhoria da Força de Vontade:
+as vezes a planta pode repetir o seu pulo!
 
 [CRAZY_DAVE_5069]
-{NO_SOUND}{NO_CLICK}Arc Branching upgrade:
-the plant can sometimes fire projectiles all over the line!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação do Arco:
+as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5070]
 {NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
