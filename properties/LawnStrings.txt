@@ -111,35 +111,35 @@ Nós temos oponentes fortes hoje, e eu vou te dar um monte de plantas fortes.
 O que poderia ser mais poderoso que uma explosão!{MOUTH_SMALL_SMILE}{SCREAM}
 
 [CRAZY_DAVE_5031]
-{NO_SOUND}{NO_CLICK}This lawnmower skin will greatly improve its appearance!
+{NO_SOUND}{NO_CLICK}Essa skin do cortador de grama vai melhorar muito a sua aparência!
 
 [CRAZY_DAVE_5032]
-{NO_SOUND}{NO_CLICK}Ballistic Branching upgrade: 
-the plant can sometimes fire with triple shot!
+{NO_SOUND}{NO_CLICK}Melhoria de Ramificação Balística: 
+as vezes a planta pode atirar três projéteis ao mesmo tempo!
 
 [CRAZY_DAVE_5033]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes produce triple suns at a time!
+{NO_SOUND}{NO_CLICK}Melhoria de Acumulação Avançada: 
+as vezes a planta pode produzir o triplo de sóis ao mesmo tempo!
 
 [CRAZY_DAVE_5034]
-{NO_SOUND}{NO_CLICK}Offspring Creation upgrade:
-the plant can sometimes leave another Potato Mine after blowing!
+{NO_SOUND}{NO_CLICK}Melhoria de Criação de Descendentes:
+as vezes a planta pode deixar outra Batata-Mina após explodir!
 
 [CRAZY_DAVE_5035]
-{NO_SOUND}{NO_CLICK}Ballistic Branching upgrade: 
-the plant can sometimes fire with triple shot!
+{NO_SOUND}{NO_CLICK}Melhoria de Ramificação Balística: 
+as vezes a planta pode atirar três projéteis ao mesmo tempo!
 
 [CRAZY_DAVE_5036]
-{NO_SOUND}{NO_CLICK}Poison Genome upgrade:
-the plant can sometimes poison the zombie that eats it!
+{NO_SOUND}{NO_CLICK}Melhoria de Genoma Venenosa:
+as vezes a planta pode envenenar os zumbis que a comem!
 
 [CRAZY_DAVE_5037]
-{NO_SOUND}{NO_CLICK}Offspring Creation upgrade:
-the plant can sometimes leave an explosive surprise after blowing!
+{NO_SOUND}{NO_CLICK}Melhoria de Criação de Descendentes:
+as vezes a planta pode deixar uma surpresa que é um estouro após explodir!
 
 [CRAZY_DAVE_5038]
-{NO_SOUND}{NO_CLICK}Growth Genome upgrade:
-the plant can sometimes grow bigger than normal, gaining a huge shooting range!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Crescida:
+as vezes a planta pode crescer e ficar maior do que o normal, ganhando um alcance de disparo enorme!
 
 [CRAZY_DAVE_5039]
 {NO_SOUND}{NO_CLICK}Ballistic Branching upgrade:
