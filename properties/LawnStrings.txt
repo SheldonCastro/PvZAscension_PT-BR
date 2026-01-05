@@ -266,119 +266,116 @@ as vezes a planta pode repetir o seu pulo!
 as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5070]
-{NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
-the plant can sometimes appear with more toughness!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Resistente:
+as vezes a planta pode aparecer com mais resistência!
 
 [CRAZY_DAVE_5071]
-{NO_SOUND}{NO_CLICK}Arc Branching upgrade:
-the plant can sometimes fire projectiles all over the line!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação do Arco:
+as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5072]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes produce more suns at a time!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
+as vezes a planta pode produzir mais sóis de uma vez!
 
 [CRAZY_DAVE_5073]
-{NO_SOUND}{NO_CLICK}Arc Branching upgrade:
-the plant can sometimes fire projectiles all over the line!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação do Arco:
+as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5074]
-{NO_SOUND}{NO_CLICK}Superfreezing upgrade:
-the plant can sometimes do significant damage to zombies and explode into many frosty projectiles!
+{NO_SOUND}{NO_CLICK}Melhoria Supercongelante:
+as vezes a planta pode causar danos significativos aos zumbis e explodir em vários projéteis congelantes!
 
 [CRAZY_DAVE_5075]
-{NO_SOUND}{NO_CLICK}Instant Maturation upgrade: 
-the plant can sometimes recharge its action instantly!
+{NO_SOUND}{NO_CLICK}Melhoria da Maturação Instantânea: 
+as vezes a planta pode recarregar sua ação instantaneamente!
 
 [CRAZY_DAVE_5076]
-{NO_SOUND}{NO_CLICK}Doomsday upgrade: 
-the plant can sometimes blow up all the zombies on the lawn, leaving a smaller than usual crater!
+{NO_SOUND}{NO_CLICK}Melhoria do Juízo Final: 
+as vezes a planta consegue explodir todos os zumbis no gramado, deixando uma cratera menor que o normal!
 
 [CRAZY_DAVE_5077]
-{NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
-the plant can sometimes appear with more toughness!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Resistente:
+as vezes a planta pode aparecer com mais resistência!
 
 [CRAZY_DAVE_5078]
-{NO_SOUND}{NO_CLICK}Contagious Hypnosis upgrade:
-the hypnotized zombie can hypnotize another zombie!
+{NO_SOUND}{NO_CLICK}Melhoria da Hipnose Contagiosa:
+o zumbi hipnotizado pode hipnotizar outro zumbi!
 
 [CRAZY_DAVE_5079]
-{NO_SOUND}{NO_CLICK}Instant Maturation upgrade: 
-the plant can sometimes recharge its action instantly!
+{NO_SOUND}{NO_CLICK}Melhoria da Maturação Instantânea: 
+as vezes a planta pode recarregar sua ação instantaneamente!
 
 [CRAZY_DAVE_5080]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes produce triple coins at a time!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
+as vezes a planta pode produzir o triplo de moedas de uma vez!
 
 [CRAZY_DAVE_5081]
-{NO_SOUND}{NO_CLICK}Arc Branching upgrade:
-the plant can sometimes fire projectiles all over the line!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação do Arco:
+as vezes a planta pode disparar projéteis por toda a linha!
 
 [CRAZY_DAVE_5082]
-{NO_SOUND}{NO_CLICK}Toughness Genome upgrade:
-the plant can sometimes appear with more toughness!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Resistente:
+as vezes a planta pode aparecer com mais resistência!
 
 [CRAZY_DAVE_5083]
-{NO_SOUND}{NO_CLICK}Explode Branching upgrade: 
-the plant can sometimes blow up both the column and the line at the same time!
+{NO_SOUND}{NO_CLICK}Melhoria da Ramificação Explosiva: 
+as vezes a planta pode explodir ambas as colunas e a linha ao mesmo tempo!
 
 [CRAZY_DAVE_5084]
-{NO_SOUND}{NO_CLICK}Fume Weighting upgrade:
-the plant can sometimes push the zombie away!
+{NO_SOUND}{NO_CLICK}Melhoria da Ponderação de Fumaça:
+as vezes a planta pode empurrar os zumbis para trás!
 
 [CRAZY_DAVE_5085]
-{NO_SOUND}{NO_CLICK}Superfreezing upgrade:
-the plant can sometimes freeze all the zombies on the lawn!
+{NO_SOUND}{NO_CLICK}Melhoria Supercongelante:
+as vezes a planta consegue congelar todos os zumbis no gramado!
 
 [CRAZY_DAVE_5086]
-{NO_SOUND}{NO_CLICK}Growth Genome upgrade:
-the plant can sometimes grow at the first watering!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Crescida:
+as vezes a planta pode crescer na primeira regada!
 
 [CRAZY_DAVE_5087]
-{NO_SOUND}{NO_CLICK}Accelerating Metabolism upgrade:
-the plant can sometimes spawn two hypnotized zombies instead of one!
+{NO_SOUND}{NO_CLICK}Melhoria do Metabolismo Acelerado:
+as vezes a planta pode gerar dois zumbis hipnotizados em vez de um!
 
 [CRAZY_DAVE_5096]
-{NO_SOUND}{NO_CLICK}Radiation Genome upgrade:
-the plant can sometimes damage and stun all zombies on the lawn!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Radioativa:
+as vezes a planta consegue danificar e atordoar todos os zumbis no gramado!
 
 [CRAZY_DAVE_5097]
-{NO_SOUND}{NO_CLICK}Instant Maturation upgrade:
-the plant can sometimes recharge its action instantly!
+{NO_SOUND}{NO_CLICK}Melhoria da Maturação Instantânea:
+as vezes a planta pode recarregar sua ação instantaneamente!
 
 [CRAZY_DAVE_5098]
-{NO_SOUND}{NO_CLICK}Advanced Accumulation upgrade: 
-the plant can sometimes produce triple coins at a time!
+{NO_SOUND}{NO_CLICK}Melhoria da Acumulação Avançada: 
+as vezes a planta pode produzir o triplo de moedas de uma vez!
 
 [CRAZY_DAVE_5099]
-{NO_SOUND}{NO_CLICK}Directional Genome upgrade: 
-the plant can sometimes will appear with the ability to shoot two peas both directions!
+{NO_SOUND}{NO_CLICK}Melhoria da Genoma Direcional: 
+as vezes a planta pode aparecer com a habilidade de disparar duas ervilhas em ambas as direções!
 
 [CRAZY_DAVE_5100]
-{NO_SOUND}{NO_CLICK}Stinky the Snail helps you pick up coins in your Zen Garden!
+{NO_SOUND}{NO_CLICK}Stinky o Caracol te ajuda a coletar moedas no Jardim Zen!
 
 [CRAZY_DAVE_5088]
-{NO_SOUND}{NO_CLICK}Dense Thickets: this Lawn Tool increases the time between zombie waves!
+{NO_SOUND}{NO_CLICK}Matagais Densos: essa ferramenta aumenta o tempo entre as ondas de zumbis!
 
 [CRAZY_DAVE_5089]
-{NO_SOUND}{NO_CLICK}Seismic Suppressor: this Lawn Tool blocks zombies spawn from graves, water and sky!
+{NO_SOUND}{NO_CLICK}Supressor Sísmico: essa ferramenta impede os zumbis de surgirem dos túmulos, água e céu!
 
 [CRAZY_DAVE_5090]
-{NO_SOUND}{NO_CLICK}Flower Pollinator: this Lawn Tool auto-collects coins from Marigolds!
+{NO_SOUND}{NO_CLICK}Polinizador de Flores: essa ferramenta coleta automaticamente as moedas geradas pela Calêndula!
 
 [CRAZY_DAVE_5092]
-{NO_SOUND}{NO_CLICK}Solar Micro-Absorbers: Each tile that has not yet been planted, after planting a non-free plant, will release a sun!
+{NO_SOUND}{NO_CLICK}Microabsorvedores Solares: para cada piso que ainda não houve uma planta, após o plantio de uma planta gerará um sol!
 
 [CRAZY_DAVE_5093]
-{NO_SOUND}{NO_CLICK}Soil Compactor: this Lawn Tool
-Increases the toughness of all non-protective plants!
+{NO_SOUND}{NO_CLICK}Compactor de Solo: essa ferramenta aumenta a resistência de todas as plantas que atacam!
 
 [CRAZY_DAVE_5094]
-{NO_SOUND}{NO_CLICK}Maturation Amplifier: this Lawn Tool
-Greatly accelerates the recharge the first three uses of the seed packet!
+{NO_SOUND}{NO_CLICK}Amplificador de Maturação: essa ferramenta acelera a recarga nos três primeiros usos dos pacotes de sementes!
 
 [CRAZY_DAVE_5095]
-{NO_SOUND}{NO_CLICK}This reversing tool will allow you to reverse the direction 
-of any your plant in Zen Garden!
+{NO_SOUND}{NO_CLICK}Essa ferramenta de inversão permite com que você inverta a direção de qualquer planta sua no Jardim Zen!
 
 [CUSTOMIZATION_INFO]
 Click to the plant
