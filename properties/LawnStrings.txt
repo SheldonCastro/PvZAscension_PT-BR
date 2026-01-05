@@ -512,73 +512,73 @@ Fornece sóis adicionais
 Gasogumelo
 
 [FUME_SHROOM_TOOLTIP]
-Shoots heavy fumes that stop zombies and can pass through screen doors
+Dispara uma densa fumaça que imobiliza zumbis e consegue atravessar portas de tela
 
 [GRAVE_BUSTER]
-Grave Buster
+Come-covas
 
 [GRAVE_BUSTER_TOOLTIP]
-Plant it on a grave to remove the grave, plant it on a plant to move
+Plante isso em uma cova para removê-la, plante isso em uma planta para movê-la
 
 [HYPNO_SHROOM]
-Hypno-shroom
+Hipnogumelo
 
 [HYPNO_SHROOM_TOOLTIP]
-Makes a zombie fight for you, needs to be eaten or squished
+Faz um zumbi lutar por você, precisa ser devorado ou esmagado
 
 [SCAREDY_SHROOM]
-Scaredy-shroom
+Medogumelo
 
 [SCAREDY_SHROOM_TOOLTIP]
-Hides when enemies get near it, becoming invisible for zombies, but some zombies are still triggered by it
+Se esconde quando inimigos se aproximam, tornando-se invisível para os zumbis, mas alguns zumbis ainda podem ser acionados por ele
 
 [ICE_SHROOM]
-Ice-shroom
+Gelogumelo
 
 [ICE_SHROOM_TOOLTIP]
-Temporarily immobilizes all zombies on the screen, extinguishes the torchwood
+Temporariamente imobiliza os zumbis na tela, mas apaga o fogo do tronco flamejante
 
 [DOOM_SHROOM]
-Doom-shroom
+Ruínagumelo
 
 [DOOM_SHROOM_TOOLTIP]
-Destroys a large area, leaving a crater in its wake and infecting zombies with radiation
+Destrói uma grande área, deixando uma cratera em seu rastro e infecta zumbis com radiação
 
 [LILY_PAD]
-Lily Pad
+Vitória-Régia
 
 [LILY_PAD_TOOLTIP]
-Lets you plant non-aquatic plants on top of it
+Permite plantar plantas não-aquáticas em cima dela
 
 [SQUASH]
-Squash
+Esmagadora
 
 [SQUASH_TOOLTIP]
-Squashes zombies
+Esmaga zumbis
 
 [THREEPEATER]
-Threepeater
+Triplervilha
 
 [THREEPEATER_TOOLTIP]
-Shoots three peas and doesn't accept other threepeaters one tile around
+Dispara três ervilhas e não aceita outras triplervilhas em volta dela
 
 [TANGLE_KELP]
-Tangle Kelp
+Emaranhalga
 
 [TANGLE_KELP_TOOLTIP]
-Aquatic plant that pulls a zombie underwater, recharging after a while
+Planta aquática que puxa um zumbi para debaixo d'água, recarregando após um tempo
 
 [JALAPENO]
 Jalapeno
 
 [JALAPENO_TOOLTIP]
-Burns down an entire lane of zombies and ice trail
+Queima uma linha inteira de zumbis e trilhas de gelo
 
 [SPIKEWEED]
-Spikeweed
+Erva-Espinho
 
 [SPIKEWEED_TOOLTIP]
-Pops tires, hurts and slows zombies that step on it
+Estoura pneus, machuca e retarda os zumbis que pisam nele
 
 [TORCHWOOD]
 Torchwood
