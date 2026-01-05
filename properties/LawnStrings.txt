@@ -2745,21 +2745,21 @@ GirassÃ³is sÃ£o uma planta extremamente importantes!
 Tente plantar pelo menos 3 dela!
 
 [ADVICE_PLANT_SUNFLOWER3]
-Plantar pelo menos 3 girassÃ³is aumenta suas
+Plantar pelo menos 3 girassóis aumenta suas
 chances de sobreviver ao ataque zumbi!
 [ADVICE_PLANT_SUNFLOWER4]
-Tente pelo menos plantar 3 girassÃ³is!
+Tente pelo menos plantar 3 girassóis!
 
 [ADVICE_PLANT_SUNFLOWER5]
 Planting sunflowers will improve your chances 
 of surviving the zombie attack!
 
 [ADVICE_CLICK_SEED_PACKET]
-Clique em um pacote de semente para segurÃ¡-lo!
+Clique em um pacote de semente para segurá-lo!
 
 [ADVICE_ENOUGH_SUN]
 Excelente! Você coletou o
-suficiente para sua prÃ³xima planta!
+suficiente para sua próxima planta!
 
 [ADVICE_CLICK_ON_GRASS]
 Clique na grama para plantar sua semente!
@@ -2928,7 +2928,7 @@ SIM
 NÃO
 
 [NEW_PLANT]
-YOU GOT A NEW PLANT!
+VOCÊ CONSEGUIU UMA NOVA PLANTA!
 
 [NEW_PLANT_VARIETY]
 YOU GOT A NEW VARIETY!
@@ -2952,18 +2952,17 @@ MAIN MENU
 Re-pick
 
 [SHOVEL]
-Shovel
+Pá
 
 [GOT_SHOVEL]
-You got the shovel!
+Você pegou a pá!
 
 [SHOVEL_DESCRIPTION]
-Lets you dig up a plant
-to make room for
-another plant
+Permite desenterrar uma
+planta para dar espaço a outra
 
 [FOUND_NOTE]
-You found a note:
+Você encontrou um bilhete:
 
 [SUBURBAN_ALMANAC]
 Suburban Almanac
@@ -3008,10 +3007,10 @@ Zen Garden Mode!
 Taco
 
 [FOUND_TACO]
-VocÃª encontrou um taco!
+Você encontrou um taco!
 
 [TACO_DESCRIPTION]
-What are you going to do with a taco?
+O que você vai fazer com um taco?
 
 [WATERING_CAN_TOOLTIP]
 water a plant
@@ -3186,76 +3185,76 @@ BACK
 Are you sure you want to use the {UPGRADE_TO} without the {UPGRADE_FROM}?
 
 [SEED_CHOOSER_SEEING_STARS_WARNING]
-Are you sure you want to play this level without starfruit?
+Você tem certeza de que quer jogar este nível sem a carambola?
 
 [SEED_CHOOSER_LILY_WARNING]
-Are you sure you want to play this level without lily pads?
+Você tem certeza de que quer jogar este nível sem a vitória-régia?
 
 [SEED_CHOOSER_ART_WALLNUT_WARNING]
-Are you sure you want to play this level without wall-nuts?
+Você tem certeza de que quer jogar este nível sem a noz-obstáculo?
 
 [SEED_CHOOSER_ART_2_WARNING]
-Are you sure you want to play this level without starfruit, umbrella leaf, and wall-nut seeds??
+Você tem certeza de que quer jogar este nível sem a carambola, folha guarda-chuva e noz-obstáculo?
 
 [SEED_CHOOSER_FLYER_WARNING]
-You haven't chosen any plants that fight off balloon zombies, are you sure you want to continue?
+Você não escolheu nenhuma planta que ataca os zumbis de balão, tem certeza de que quer continuar?
 
 [SEED_CHOOSER_SUN_WARNING]
-You haven't chosen any sun producing plants, are you sure you want to continue?
+Você não escolheu nenhuma planta que produz sóis, tem certeza de que quer continuar?
 
 [SEED_CHOOSER_NIGHT_SUN_WARNING]
-Now that it's nighttime, you need sunflowers more than ever. Are you sure you want to play the level without them?
+Agora que é noite, você precisa de girassóis mais do que nunca. Tem certeza de que quer jogar o nível sem elas?
 
 [SEED_CHOOSER_PUFFSHROOM_WARNING]
-This level will be extremely difficult without puff-shrooms. Are you sure you wish to continue without them?
+Este nível vai ser extremamente difícil sem esporogumelos. Tem certeza de que quer continuar sem eles?
 
 [SEED_CHOOSER_POOL_WARNING]
-Are you sure want to play this level without any water plants?
+Você tem certeza de que quer jogar este nível sem nenhuma planta aquática?
 
 [SEED_CHOOSER_ROOF_WARNING]
-Are you sure want to play this level without flower pots?
+Você tem certeza de que quer jogar este nível sem o vaso?
 
 [ADVICE_ALMOST_THERE]
-Almost there!
+Quase lá!
 
 [ADVICE_BEGHOULED_ALMOST_THERE]
-5 matches to go!
+5 combinações pra ganhar!
 
 [ZOMBIQUARIUM_SNORKEL_TOOLTIP]
-Buy Snorkel Zombie
+Comprar Zumbi Mergulhador
 
 [ZOMBIQUARIUM_TROPHY_TOOLTIP]
-Buy Trophy
+Comprar Troféu
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
 Click on tank to feed zombies
 
 [ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
-Get {SCORE} sun to pass the level
+Consiga {SCORE} sóis para passar de nível
 
 [ZOMBIQUARIUM_DEATH_MESSAGE]
-All your pet zombies have perished!
+Todos os seus zumbis de estimação morreram!
 
 [I_ZOMBIE_DEATH_MESSAGE]
-You lost all your zombies!
+Você perdeu todos os seus zumbis!
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
-Click on the trophy to complete the level!
+Clique no troféu para concluir a fase!
 
 [ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
-Click to buy more snorkel zombies!
+Clique para comprar zumbis mergulhadores!
 
 [TRY_AGAIN]
-Try Again
+Tentar Novamente
 
 [ONE_FLAG]
-1 flag
+1 bandeira
 
 [COUNT_FLAGS]
-{COUNT} flags
+{COUNT} bandeiras
 
 [SURVIVAL_DEATH_MESSAGE]
-You survived for {FLAGS}
+Você sobreviveu por{FLAGS}
 before dying a
 GRUESOME ZOMBIE DEATH!!!
 
@@ -3266,13 +3265,13 @@ You made it to a streak of {STREAK}
 Streak: {STREAK}
  
 [LEVEL]
-NÃ­vel
+Ní­vel
 
 [GAME_OVER]
 FIM DE JOGO
 
 [PICK_AREA]
-SobrevivÃªncia
+Sobrevivência
 
 [PICK_CHALLENGE]
 Minijogos
@@ -3296,73 +3295,73 @@ Earn 10 survival trophies to unlock
 Termine o modo aventura para desbloquear.
 
 [SURVIVAL_DAY_NORMAL]
-Survival: Day
+Sobrevivência: Dia
 
 [SURVIVAL_NIGHT_NORMAL]
-Survival: Night
+Sobrevivência: Noite
 
 [SURVIVAL_POOL_NORMAL]
-Survival: Pool
+Sobrevivência: Piscina
 
 [SURVIVAL_FOG_NORMAL]
-Survival: Fog
+Sobrevivência: Neblina
 
 [SURVIVAL_ROOF_NORMAL]
-Survival: Roof
+Sobrevivência: Telhado
 
 [SURVIVAL_DAY_HARD]
-Survival: Day (Hard)
+Sobrevivência: Dia (Difícil)
 
 [SURVIVAL_NIGHT_HARD]
-Survival: Night (Hard)
+Sobrevivência: Noite (Difícil)
 
 [SURVIVAL_POOL_HARD]
-Survival: Pool (Hard)
+Sobrevivência: Piscina (Difícil)
 
 [SURVIVAL_FOG_HARD]
-Survival: Fog (Hard)
+Sobrevivência: Neblina (Difícil)
 
 [SURVIVAL_ROOF_HARD]
-Survival: Roof (Hard)
+Sobrevivência: Telhado (Difícil)
 
 [SURVIVAL_DAY_ENDLESS]
-Survival: Day (Endless)
+Sobrevivência: Dia (Infinito)
 
 [SURVIVAL_NIGHT_ENDLESS]
-Survival: Night (Endless)
+Sobrevivência: Noite (Infinito)
 
 [SURVIVAL_POOL_ENDLESS]
-Survival: Endless
+Sobrevivência: Infinito
 
 [SURVIVAL_FOG_ENDLESS]
-Survival: Fog (Endless)
+Sobrevivência: Neblina (Infinito)
 
 [SURVIVAL_ROOF_ENDLESS]
-Survival: Roof (Endless)
+Sobrevivência: Telhado (Infinito)
 
 [WAR_AND_PEAS]
-ZomBotany
+Zumbotânico
 
 [SEEING_STARS]
-Seeing Stars
+Vendo Estrelas
 
 [CAN_YOU_DIG_IT]
-Can You Dig It?
+Consegue Escavar Isso?
 
 [SCARY_POTTER_1]
-Vasebreaker
+Quebra-Vasos
 
 [SCARY_POTTER_2]
-To the Left
+Para a Esquerda
 
 [SCARY_POTTER_3]
-Third Vase
+Terceiro Vaso
 
 [SCARY_POTTER_4]
-Chain Reaction
+Reação em Cadeia
 
 [SCARY_POTTER_5]
-M is for Metal
+M de Metal
 
 [SCARY_POTTER_6]
 Scary Potter
@@ -3371,22 +3370,22 @@ Scary Potter
 Hokey Pokey
 
 [SCARY_POTTER_8]
-Another Chain Reaction
+Outra Reação em Cadeia
 
 [SCARY_POTTER_9]
-Ace of Vase
+Ás do Vaso
 
 [SCARY_POTTER_10]
 Vasebreaker Facebreaker
 
 [SCARY_POTTER_ENDLESS]
-Vasebreaker Endless
+Quebra-Vasos Sem Fim
 
 [SCARY_POTTER]
 Puzzle
 
 [PORTAL_COMBAT]
-Portal Combat
+Combate nos Portais
 
 [BEGHOULED]
 Beghouled
@@ -3395,55 +3394,55 @@ Beghouled
 Beghouled Twist
 
 [WALL_NUT_BOWLING]
-Wall-nut Bowling
+Boliche de nozes
 
 [GRAVE_DANGER]
-Grave Danger
+Perigo grave
 
 [I_ZOMBIE]
-I, Zombie
+Eu, Zumbi
 
 [WHACK_A_ZOMBIE]
-Whack a Zombie
+Amasse o Zumbi
 
 [SLOT_MACHINE]
-Slot Machine
+Caça-níqueis
 
 [ZOMBIQUARIUM]
-Zombiquarium
+Zumbiquário
 
 [LITTLE_TROUBLE]
-Big Trouble Little Zombie
+Problema Grande, Zumbi Pequeno
 
 [BOBSLED_BONANZA]
-Bobsled Bonanza
+Enxame de Trenós
 
 [ITS_RAINING_SEEDS	]
-It's Raining Seeds	
+Está Chovendo Sementes	
 
 [INVISIGHOUL]
-Invisi-ghoul
+Cadê o Zumbi?
 
 [DARK_STORMY_NIGHT]
-Dark Stormy Night
+Noite Escura e Chuvosa
 
 [AIR_RAID]
-Air Raid
+Ataque aéreo
 
 [COLUMN_AS_YOU_SEE_EM]
-Column Like You See 'Em
+Colunas (traduz tu ai :pray:)
 
 [BUNGEE_BLITZ]
 Bungee Blitz
 
 [POGO_PARTY]
-Pogo Party
+Festa do Pula-Pula
 
 [FINAL_BOSS]
-Dr. Zomboss's Revenge
+A vingança do Dr. Zumbão
 
 [LAST_STAND]
-Last Stand
+Última defesa
 
 [ART_CHALLENGE_WALL_NUT]
 Art Challenge Wall-nut
@@ -3461,52 +3460,52 @@ Big Time
 Art Challenge Sunflower
 
 [ZOMBIES_ON_SPEED]
-Zombie Nimble Zombie Quick
+Zumbi Ágil Zumbi Rápido
 
 [ICE_LEVEL]
 Ice Level
 
 [ZEN_GARDEN]
-Zen Garden	
+Jardim Zen
 
 [HIGH_GRAVITY]
 High Gravity
 
 [WAR_AND_PEAS_2]
-ZomBotany 2
+Zumbotânico 2
 
 [I_ZOMBIE_TOO]
-I, Zombie 2
+Eu, Zumbi 2
 
 [WALL_NUT_BOWLING_EXTREME]
-Wall-nut Bowling 2
+Boliche de nozes 2
 
 [BEAT_GAME_MESSAGE1]
-You got the Gold Sunflower Trophy
+Você ganhou o Troféu da Girassol Dourada!
 
 [BEAT_GAME_MESSAGE2]
-Wow! You got all the trophies! Now it's time to play more Endless Games! And don't forget to tend your Zen Garden!
+Caramba! Você conseguiu todos os troféus! Agora é hora de jogar Jogos Infinitos! E não se esqueça de cuidar do seu Jardim Zen!
 
 [GOLD_SUNFLOWER_TROPHY]
-Gold Sunflower Trophy
+Troféu da Girassol Dourada
 
 [SILVER_SUNFLOWER_TROPHY]
-Silver Sunflower Trophy
+Troféu da Girassol Prateada
 
 [WIN_MESSAGE1]
-You have defeated the Boss Zombie!
+Você derrotou o Chefe Zumbi!
 
 [WIN_MESSAGE2]
-Congratulations!  You have most triumphantly fended off the zombie attack!  Your lawn is safe... for now!
+Parabéns! Você destruiu e acabou com o ataque zumbi! Seu gramado está a salvo... por enquanto!
 
 [GOT_TROPHY]
-You got a Trophy!
+Você ganhou um Troféu!
 
 [TROPHY]
-Trophy
+Troféu
 
 [NOW_YOU_CAN_PLAY]
-Now you can play
+Agora você pode jogar
 {MODE}!
 
 [CHALLENGE_UNLOCKED]
@@ -3516,10 +3515,10 @@ You've unlocked a new mini-game!
 Keep on collecting those trophies!
 
 [SUN]
-Sun
+Sol
 
 [MATCHES]
-Matches
+Jogadas
 
 [MODE_LOCKED]
 Não liberado!
@@ -3537,13 +3536,13 @@ Jogue mais o Modo Aventura
 para desbloquear os quebra-cabeças.
 
 [CLICK_TO_START]
-CLICK TO START!
+CLIQUE PARA COMEÇAR!
 
 [LOADING]
 CARREGANDO...
 
 [CREDITS]
-Credits
+Créditos
 
 [BACK_TO_GAME]
 Voltar ao Jogo
