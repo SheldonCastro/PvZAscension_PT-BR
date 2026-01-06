@@ -416,7 +416,7 @@ Produz Cerejas-Bomba de forma consistente, mas muito lenta.
 
 [PLANT_ID89_TOOLTIP]
 Produz o dobro de moedas a mais que uma Calêndula
-(requires marigold)
+(requer calêndula)
 
 [PLANT_ID86_TOOLTIP]
 Clique na planta e use WASD para movê-la
@@ -429,7 +429,7 @@ Lança bolas que causam dano ao longo de toda a linha
 (requer repolhopulta)
 
 [PLANT_ID88_TOOLTIP]
-The most succesful of the worst varieties of Winter Melon
+A variante mais bem-sucedida dentre as piores da Gelancia
 
 [PLANT_ID92_TOOLTIP]
 Troca duas plantas aleatoriamente, curando-as
@@ -584,309 +584,309 @@ Tronco Flamejante
 Incendeia a maioria dos projéteis e aquece plantas congeladas
 
 [TALL_NUT]
-Tall-nut
+Noz-Gigante
 
 [TALL_NUT_TOOLTIP]
-Heavy-duty wall that can't be vaulted over, breaks the shovel
+Parede resistente que não pode ser transposta com um salto, quebra a pá
 
 [SEA_SHROOM]
-Sea-shroom
+Cogumarinho
 
 [SEA_SHROOM_TOOLTIP]
-Low-health aquatic plant that shoots short-ranged spores
+Planta aquática com pouca vida que dispara esporos de curto alcance
 
 [PLANTERN]
-Plantern
+Planterna
 
 [PLANTERN_TOOLTIP]
-Lights up an area and dissolves headless zombies
+Ilumina uma área e dissolve zumbis sem cabeça
 
 [CACTUS]
-Cactus
+Cacto
 
 [CACTUS_TOOLTIP]
-Grows tall enough to pop a zombie's balloon immediately, or shoot zombies where other plants can't
+Cresce o suficiente para estourar o balão de zumbis imediatamente, ou dispara em zumbis onde outras plantas não conseguem
 
 [BLOVER]
-Blover
+Trevo
 
 [BLOVER_TOOLTIP]
-Stops zombies, freezes and speeds up projectiles
+Para zumbis, congela e acelera projéteis
 
 [SPLIT_PEA]
-Split Pea
+Bidisparervilha
 
 [SPLIT_PEA_TOOLTIP]
-Shoots peas forward and backwards
+Atira ervilhas para frente e para trás
 
 [STARFRUIT]
-Starfruit
+Carambola
 
 [STARFRUIT_TOOLTIP]
-Shoots stars in 5 directions, dies if there are too many starfruits on the lawn
+Atira estrelas em 5 direções, morre se houver muitas carambolas no gramado
 
 [PUMPKIN]
-Pumpkin
+Abóbora
 
 [PUMPKIN_TOOLTIP]
-Protects plants that are within its shell, breaks the shovel
+Protege plantas que estão dentro do seu casco, quebra a pá
 
 [MAGNET_SHROOM]
-Magnet-shroom
+Imãgumelo
 
 [MAGNET_SHROOM_TOOLTIP]
-Removes helmets and other metal objects from zombies
+Remove capacetes e outros objetos de metal dos zumbis
 
 [CABBAGE_PULT]
-Cabbage-pult
+Repolhopulta
 
 [CABBAGE_PULT_TOOLTIP]
-Hurls cabbages at the enemy
+Atira espolho nos inimigos
 
 [FLOWER_POT]
-Flower Pot
+Vaso
 
 [FLOWER_POT_TOOLTIP]
-Lets you plant on the roof
+Permite plantar no telhado
 
 [KERNEL_PULT]
-Kernel-pult
+Milhopulta
 
 [KERNEL_PULT_TOOLTIP]
-Flings corn kernels and butter at zombies
+Atira grãos de milho e manteiga nos zumbis
 
 [GARLIC]
-Garlic
+Alho
 
 [GARLIC_TOOLTIP]
-Diverts zombies into other lanes
+Faz os zumbis trocarem de linha
 
 [UMBRELLA_LEAF]
-Umbrella Leaf
+Folha Guarda-chuva
 
 [UMBRELLA_LEAF_TOOLTIP]
-Protects nearby plants from catapults
+Protege plantas próximas de catapultas
 
 [MARIGOLD]
-Marigold
+Calêndula
 
 [MARIGOLD_TOOLTIP]
-Your main source of coins
+Sua fonte principal de moedas
 
 [MELON_PULT]
-Melon-pult
+Melancipulta
 
 [MELON_PULT_TOOLTIP]
-Does heavy damage to zombies
+Causa um dano pesado nos zumbis
 
 [GATLING_PEA]
-Gatling Pea
+Metralhervilha
 
 [MYSTERIOUS_ARGICULTURE_TOOLTIP]
-Plants mysterious seeds in an empty flower pot
-(requires flower pot)
+Planta sementes misteriosas em um vaso vazio
+(requer vaso)
 
 [GATLING_PEA_TOOLTIP]
-Shoots four peas at a time
-(requires repeater)
+Atira quatro ervilhas de uma vez
+(requer repetidora)
 
 [TWIN_SUNFLOWER]
-Twin Sunflower
+Girassol Gêmea
 
 [TWIN_SUNFLOWER_TOOLTIP]
-Gives you additional sun, each next sun on the current tile is produced slower than the previous one, due to soil depletion
-(requires sunflower)
+Fornece sóis adicionais
+(requer girassol)
 
 [GLOOM_SHROOM]
-Gloom-shroom
+Góticogumelo
 
 [GLOOM_SHROOM_TOOLTIP]
-Releases heavy fumes in an area around itself
-(requires fume-shroom)
+Libera gases pesados em uma área ao seu redor
+(requer gasogumelo)
 
 [CATTAIL]
-Cattail
+Rabo-De-Gato
 
 [CATTAIL_TOOLTIP]
-Attacks any zombie on the lawn
+Ataca qualquer zumbi no gramado
 
 [WINTER_MELON]
-Winter Melon
+Gelancia
 
 [WINTER_MELON_TOOLTIP]
-Does heavy damage and slows zombies
-(requires melon-pult)
+Causa um dano pesado nos zumbis e os deixa mais lentos
+(requer melancipulta)
 
 [GOLD_MAGNET]
-Gold Magnet
+Ímã de Ouro
 
 [GOLD_MAGNET_TOOLTIP]
-Catches nodes of solar energy in the air
+Capta nós de energia solar no ar
 
 [SPIKEROCK]
-Spikerock
+Pedra-Espinho
 
 [SPIKEROCK_TOOLTIP]
-Pops multiple tires, damages and slows zombies that walk over it
-(requires spikeweed)
+Estoura vários pneus, causa dano e retarda os zumbis que passam por cima
+(requer erva-espinho)
 
 [COB_CANNON]
-Cob Cannon
+Canhão de Milho
 
 [COB_CANNON_TOOLTIP]
-Click to launch deadly for plants and zombies cobs of corn
-(requires 2 kernel-pults)
-(plant Coffee Bean for instant reload)
+Clique para lançar espigas de milho mortais nos zumbis
+(requer 2 milhopultas)
+(plante um Grão de Café para recarga instantânea)
 
 [IMITATER]
-Imitater
+Imitadora
 
 [IMITATER_TOOLTIP]
-Lets you have two of the same plant
+Permite que você tenha duas plantas iguais
 
 [COFFEE_BEAN]
-Coffee Bean
+Grão de Café
 
 [COFFEE_BEAN_TOOLTIP]
-Plant it on a mushroom or a plant with a rechargeable action
+Plante-o em um cogumelo ou em uma planta com uma ação recarregável
 
 [EXPLODE_O_NUT]
-Explode-o-nut
+Noz-Explosiva
 
 [EXPLODE_O_NUT_TOOLTIP]
-Explodes when eaten, breaks the shovel
+Explode quando comida, quebra a pá
 
 [SPROUT]
-Sprout
+Brotinho
 
 [MARIGOLD_SPROUT]
-Marigold Sprout
+Brotinho da Calêndula
 
 [ZOMBIE]
-Zombie
+Zumbi
 
 [FLAG_ZOMBIE]
-Flag Zombie
+Zumbi da Bandeira
 
 [CONEHEAD_ZOMBIE]
-Conehead Zombie
+Zumbi Cabeça de Cone
 
 [BUCKETHEAD_ZOMBIE]
-Buckethead Zombie
+Zumbi Cabeça de Balde
 
 [POLE_VAULTING_ZOMBIE]
-Pole Vaulting Zombie
+Zumbi Atleta
 
 [NEWSPAPER_ZOMBIE]
-Newspaper Zombie
+Zumbi do Jornal
 
 [SCREEN_DOOR_ZOMBIE]
-Screen Door Zombie
+Zumbi Porta-De-Tela
 
 [FOOTBALL_ZOMBIE]
-Football Zombie
+Zumbi All-Star
 
 [DANCING_ZOMBIE]
-Dancing Zombie
+Zumbi Dançarino
 
 [BACKUP_DANCER]
-Backup Dancer
+Zumbi Dançarino de Fundo
 
 [DUCKY_TUBE_ZOMBIE]
-Ducky Tube Zombie
+Zumbi do Patinho
 
 [SNORKEL_ZOMBIE]
-Snorkel Zombie
+Zumbi Mergulhador
 
 [ZOMBONI]
 Zomboni
 
 [ZOMBIE_BOBSLED_TEAM]
-Zombie Bobsled Team
+Time Bobsled dos Zumbis
 
 [DOLPHIN_RIDER_ZOMBIE]
-Dolphin Rider Zombie
+Zumbi do Golfinho
 
 [JACK_IN_THE_BOX_ZOMBIE]
-Jack-in-the-Box Zombie
+Zumbi Palhaço
 
 [BALLOON_ZOMBIE]
-Balloon Zombie
+Zumbi do Balão
 
 [DIGGER_ZOMBIE]
-Digger Zombie
+Zumbi Mineiro
 
 [POGO_ZOMBIE]
-Pogo Zombie
+Zumbi do Pula-Pula
 
 [ZOMBIE_YETI]
-Zombie Yeti
+Zumbi Yeti
 
 [BUNGEE_ZOMBIE]
-Bungee Zombie
+Zumbi Bungee
 
 [LADDER_ZOMBIE]
-Ladder Zombie
+Zumbi da Escada
 
 [CATAPULT_ZOMBIE]
-Catapult Zombie
+Zumbi da Catapulta
 
 [GARGANTUAR]
-Gargantuar
+Devorador
 
 [REDEYED_GARGANTUAR]
-Giga-gargantuar
+Giga-devorador
 
 [DISCO_ZOMBIE]
-Disco Zombie
+Zumbi Dançarino
 
 [ATTRACTOR_FIELD_ZOMBIE]
-Attractor Field Zombie
+Zumbi do Campo Atrativo
 
 [FOG_MACHINE_ZOMBIE]
-Fog-machine Zombie
+Zumbi Neblina
 
 [GARDENER_ZOMBIE]
-Gardener Zombie
+Zumbi Jardineiro
 
 [STEEL_HELMET_ZOMBIE]
-Steel Helmet Zombie
+Zumbi do Capacete de Aço
 
 [GIGA_GARGANTUAR]
-Giga Gargantuar
+Giga Devorador
 
 [GATLING_PEA_ZOMBOTANY]
-Repeater Zombotany
+Repetidora Zumbotânica
 
 [GARLIC_ZOMBOTANY]
-Garlic Zombotany
+Alho Zumbotânico
 
 [SNOW_PEA_ZOMBOTANY]
-Snow Pea Zombotany
+Gelervilha Zumbotânica
 
 [JALAPENO_ZOMBOTANY]
-Jalapeno Zombotany
+Jalapeno Zumbotânico
 
 [TALL_NUT_ZOMBOTANY]
-Tall-nut Zombotany
+Noz-gigante Zumbotânica
 
 [SQUASH_ZOMBOTANY]
-Squash Zombotany
+Esmagadora Zumbotânica
 
 [IMP]
-Imp
+Zumbinho
 
 [BOSS]
-Dr. Zomboss
+Dr. Zumbão
 
 [DOG_WALKING_ZOMBIE]
-Dog Walking Zombie
+Zumbi com Cachorro
 
 [DOG_ZOMBIE]
-Dog Zombie
+Zumbi Cachorro
 
 [PROPELLER_ZOMBIE]
-Propeller Zombie
+Zumbi de Hélice
 
 [PEASHOOTER_DESCRIPTION]
 Peashooters are your first line of defense. They shoot peas at attacking zombies.
