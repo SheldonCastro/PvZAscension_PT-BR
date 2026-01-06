@@ -378,10 +378,10 @@ as vezes a planta pode aparecer com a habilidade de disparar duas ervilhas em am
 {NO_SOUND}{NO_CLICK}Essa ferramenta de inversão permite com que você inverta a direção de qualquer planta sua no Jardim Zen!
 
 [CUSTOMIZATION_INFO]
-Click to the plant
-or zombie to switch.
-Left click - next,
-Right click - previous.
+Clique na planta
+ou no zumbi para alternar.
+Clique esquerdo - próximo,
+Clique direito - anterior.
 
 [LAWNMACHINE_WARNING_TEXT]
 Não liberado!
@@ -403,49 +403,49 @@ Chegue ao ní­vel 33
 do modo aventura para desbloquear.
 
 [AQUATIC_POT_TOOLTIP]
-Allows to plant an aquatic plant on it
+Permite plantar uma planta aquática
 
 [WAIT_TIME_MEDIUM]
-Medium
+Médio
 
 [WAIT_TIME_EXTREMELY_SLO]
-Slowest
+Muito Lento
 
 [PLANT_ID90_TOOLTIP]
-Consistently but slowly producing Cherry Bombs
+Produz Cerejas-Bomba de forma consistente, mas muito lenta.
 
 [PLANT_ID89_TOOLTIP]
-Gives twice as many coins as a Magirold
+Produz o dobro de moedas a mais que uma Calêndula
 (requires marigold)
 
 [PLANT_ID86_TOOLTIP]
-Click on the plant and use WASD to move it around
+Clique na planta e use WASD para movê-la
 
 [PLANT_ID85_TOOLTIP]
-It looks delicious enough
+Parece delicioso o suficiente
 
 [PLANT_ID80_TOOLTIP]
-Throws balls that do damage all along the line
-(requires cabbage-pult)
+Lança bolas que causam dano ao longo de toda a linha
+(requer repolhopulta)
 
 [PLANT_ID88_TOOLTIP]
 The most succesful of the worst varieties of Winter Melon
 
 [PLANT_ID92_TOOLTIP]
-Swaps two random plants around, healing them
-(requires scaredy-shroom in scared state)
+Troca duas plantas aleatoriamente, curando-as
+(requer medogumelo no estado assustado)
 
 [PLANT_92_REQUIRES]
-requires scaredy-shroom in scared state
+requer medogumelo no estado assustado
 
 [PLANT_90_REQUIRES]
-requires Cabbage-pult
+requer Repolhopulta
 
 [PLANT_86_REQUIRES]
 requires split pea
 
 [PLANT_89_REQUIRES]
-requires marigold
+requer calêndula
 
 [PEASHOOTER_TOOLTIP]
 Atira ervilhas no inimigo
@@ -578,10 +578,10 @@ Erva-Espinho
 Estoura pneus, machuca e retarda os zumbis que pisam nele
 
 [TORCHWOOD]
-Torchwood
+Tronco Flamejante
 
 [TORCHWOOD_TOOLTIP]
-Ignites most of the projectiles and warms frozen plants
+Incendeia a maioria dos projéteis e aquece plantas congeladas
 
 [TALL_NUT]
 Tall-nut
