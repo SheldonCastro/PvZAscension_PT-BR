@@ -889,116 +889,104 @@ Zumbi Cachorro
 Zumbi de Hélice
 
 [PEASHOOTER_DESCRIPTION]
-Peashooters are your first line of defense. They shoot peas at attacking zombies.
+Disparervilhas são sua primeira linha de defesa. Elas atiram ervilhas nos zumbis.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
+{KEYWORD}Dano:{STAT} normal
 {SHORTLINE}
-{FLAVOR}How can a single plant grow and shoot so many peas so quickly? Peashooter says, 
-"Hard work, commitment, and a healthy, well-balanced breakfast of sunlight and high-fiber 
-carbon dioxide make it all possible."
+{FLAVOR}Como pode uma única planta crescer e atirar várias ervilhas tão rapidamente? A Disparervilha diz,
+"Trabalho árduo, dedicação e um café da manhã saudável e equilibrado, com luz solar e alto teor de fibras
+o dióxido de carbono torna tudo isso possível."
 
 [SUNFLOWER_DESCRIPTION]
-Sunflowers are essential for you to produce extra sun, but they're reducing soil resources for all the next suns produced on that tile.
+Os girassóis são essenciais para você produzir mais sol, mas estão reduzindo os recursos do solo para todos os sóis que serão produzidos posteriormente naquele terreno.
 {SHORTLINE}
-{KEYWORD}Sun production:{STAT} normal
-{KEYWORD}Special:{STAT} reducing soil resources
+{KEYWORD}Produção de Sol:{STAT} normal
+{KEYWORD}Especial:{STAT} reduzir os recursos do solo
 {SHORTLINE}
-{FLAVOR}Sunflower can't resist bouncing to the beat. Which beat is that? Why, the 
-life-giving jazzy rhythm of the Earth itself, thumping at a frequency only Sunflower can hear.
+{FLAVOR}A Girassol não pode resistir ao balanço da batida. Que batida é essa? Ora, é o vivificante ritmo de Jazz da própria Terra, batendo em uma frequência única que só as Girassóis podem ouvir.
 
 [WALL_NUT_DESCRIPTION]
-Wall-nuts have hard shells which you can use to protect your other plants.
+As nozes-obstáculos têm cascas duras que você pode usar para proteger outras plantas.
 {SHORTLINE}
-{KEYWORD}Toughness:{STAT} high
-{KEYWORD}Special:{STAT} breaks the shovel
+{KEYWORD}Resistência:{STAT} alta
+{KEYWORD}Especial:{STAT} quebra a pá
 {SHORTLINE}
-{FLAVOR}"People wonder how I feel about getting constantly chewed on by zombies," says Wall-nut. 
-"What they don't realize is that with my limited senses all I can feel is a kind of tingling, like a relaxing back rub."
+{FLAVOR}As pessoas se perguntam como me sinto por estar sempre sendo mastigado por zumbis, diz Noz-Obstáculo "O que elas não percebem é que, com meus sentidos limitados, tudo o que sinto é uma espécie de formigamento, como uma massagem relaxante nas costas."
 
 [CHERRY_BOMB_DESCRIPTION]
-Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.
+Cerejas-Bomba podem explodir todos os zumbis em uma área. Elas têm um pavio curto, então plante-as perto dos zumbis.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a medium area
-{KEYWORD}Usage:{STAT} single use, instant
+{KEYWORD}Dano:{STAT} massivo
+{KEYWORD}Alcance:{STAT} todos os zumbis em uma área média
+{KEYWORD}Uso:{STAT} uso único, instantâneo
 {SHORTLINE}
-{FLAVOR}"I wanna explode," says Cherry #1. "No, let's detonate instead!" says 
-his brother, Cherry #2. After intense consultation they agree to explodonate.
+{FLAVOR}"Eu quero explodir," diz o Cereju. "Não, vamos detonar!" diz seu irmão, Cerejo. Depois de uma intensa conversa, eles concordaram em "explodonar!"
 
 [POTATO_MINE_DESCRIPTION]
-Potato Mines pack a powerful punch, but they need a while to arm themselves. You should plant them ahead of zombies. They will explode on contact.
+Batata-minas tem um poder de ataque considerável, mas precisam de um tempo para se armarem. Você deve plantá-la em frente aos zumbis. Explode no contato.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Range:{STAT} all zombies in a small area
-{KEYWORD}Usage:{STAT} single use, delayed activation
+{KEYWORD}Dano:{STAT} massivo
+{KEYWORD}Alcance:{STAT} todos os zumbis em uma área pequena
+{KEYWORD}Uso:{STAT} uso único, demora para ativar
 {SHORTLINE}
-{FLAVOR}Some folks say Potato Mine is lazy, that he leaves everything to the last 
-minute. Potato Mine says nothing. He's too busy thinking about his investment strategy.
+{FLAVOR}Alguns dizem que Batatamina é preguiçosa, que deixa tudo para a última hora. Batatamina não diz nada. Ela está ocupada pensando em sua estratégia de investimento.
 
 [REPEATER_DESCRIPTION]
-Repeaters fire two peas at a time.
+Repetidoras atiram duas ervilhas de uma vez.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal (for each pea)
-{KEYWORD}Firing speed:{STAT} 2x
+{KEYWORD}Dano:{STAT} normal (para cada ervilha)
+{KEYWORD}Velocidade de disparo:{STAT} 2x
 {SHORTLINE}
-{FLAVOR}Repeater is fierce. He's from the streets. He doesn't take attitude from anybody, 
-plant or zombie, and he shoots peas to keep people at a distance. Secretly, though, Repeater yearns for love.
+{FLAVOR}A Repetidora é feroz. Ela vem das ruas. Não leva desaforo de ninguém, planta ou zumbi, e atira ervilhas para manter as pessoas à distância. Secretamente, porém, Repetidora anseia por amor.
 
 [SNOW_PEA_DESCRIPTION]
-Snow Peas shoot frozen peas that damage and slow the enemy.
+Gelervilha atira ervilhas de gelo que dão dano e reduzem a velocidade do inimigo.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal, slows zombies
+{KEYWORD}Dano:{STAT} normal, deixa os zumbis lentos
 {SHORTLINE}
-{FLAVOR}Folks often tell Snow Pea how "cool" he is, or exhort him to "chill out." They 
-tell him to "stay frosty." Snow Pea just rolls his eyes. He's heard 'em all.
+{FLAVOR}A Gelervilha, de sangue frio, raramente demonstra suas emoções para outras plantas. Alguns dizem que seu coração é ainda mais frio do que as ervilhas congeladas que ela dispara. A Gelervilha não quer parecer assim, mas toda vez que abre a boca, as ervilhas que dispara fazem a atmosfera ao seu redor despencar para temperaturas congelantes.
 
 [CHOMPER_DESCRIPTION]
-Chompers can devour a zombie whole, but they are vulnerable while chewing.
+Carnívoras podem devorar um zumbi inteiro, mas são vulneráveis enquanto mastigam.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} massive
-{KEYWORD}Special:{STAT} action recharge can be reset by coffee bean
+{KEYWORD}Dano:{STAT} massivo
+{KEYWORD}Especial:{STAT} ação de recarga pode ser reiniciada por um grão de café
 {SHORTLINE}
-{FLAVOR}Chomper almost got a gig doing stunts for The Little Shop of Horrors but it fell 
-through when his agent demanded too much on the front end. Chomper's not resentful, 
-though. He says it's just part of the business.
+{FLAVOR}Carnívora quase conseguiu um trabalho como dublê em "A Pequena Loja dos Horrores", mas o contrato foi cancelado quando seu agente exigiu muito no adiantamento. Carnívora não guarda ressentimentos. Ela diz que faz parte do negócio.
 
 [PUFF_SHROOM_DESCRIPTION]
-Puff-shrooms are cheap, but can only fire a short distance.
+Soprogumelos são baratos, mas só podem atirar a uma curta distância.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal
-{KEYWORD}Range:{STAT} short
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}Dano:{STAT} normal
+{KEYWORD}Alcance:{STAT} curto
+{NOCTURNAL}Dorme durante o dia
 {SHORTLINE}
-{FLAVOR}"I only recently became aware of the existence of zombies," says Puff-shroom. "Like many fungi, 
-I'd just assumed they were fairy tales or movie monsters. This whole experience has been a huge eye-opener for me."
+{FLAVOR}"Só recentemente tomei consciência da existência dos zumbis," diz Soprogumelo. "Como muitos fungos, eu achava que eram contos de fada ou monstros de filmes. Toda essa experiência foi uma grande revelação para mim."
 
 [SUN_SHROOM_DESCRIPTION]
-Gives you additional sun, reducing soil resources for all the next suns produced on that tile.
+Fornece sóis adicionais.
 {SHORTLINE}
-{KEYWORD}Sun production:{STAT} low, then normal
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}Produção de Sol:{STAT} lenta, depois normal
+{NOCTURNAL}Dorme durante o dia
 {SHORTLINE}
-{FLAVOR}Sun-shroom hates sun. He hates it so much that when it builds up in his system, 
-he spits it out as fast as he can. He just won't abide it. To him, sun is crass.
+{FLAVOR}Solargumelo odeia sol. Ele odeia tanto que quando o sol se acumula em seu sistema, ele cospe fora o mais rápido que pode. Ele simplesmente não suporta isso. Para ele, o sol é grosseiro.
 
 [FUME_SHROOM_DESCRIPTION]
-Shoots heavy fumes that stop zombies and can pass through screen doors.
+Dispara uma densa fumaça que imobiliza zumbis e consegue atravessar portas de tela.
 {SHORTLINE}
-{KEYWORD}Damage:{STAT} normal, penetrates screen doors
-{KEYWORD}Range:{STAT} all zombies in the fume cloud
-{NOCTURNAL}Sleeps during the day
+{KEYWORD}Dano:{STAT} normal, penetra portas de tela
+{KEYWORD}Alcance:{STAT} todos os zumbis na nuvem de fumaça
+{NOCTURNAL}Dorme durante o dia
 {SHORTLINE}
-{FLAVOR}"I was in a dead-end job producing yeast spores for a bakery," says Fume-shroom. 
-"Then Puff-shroom, bless 'im, told me about this great opportunity blasting zombies. Now I really feel like I'm making a difference."
+{FLAVOR}"Eu tinha um emprego sem futuro produzindo esporos de levedura para uma padaria," diz Gasogumelo. "Então Soprogumelo, abençoado seja, me falou sobre essa ótima oportunidade de explodir zumbis. Agora eu realmente sinto que estou fazendo a diferença."
 
 [GRAVE_BUSTER_DESCRIPTION]
-Plant Grave Busters on graves to remove the graves, or plant on the plant to move it.
+Plante Come-Covas em covas para removê-las, ou plante-a em uma planta para movê-la.
 {SHORTLINE}
-{KEYWORD}Usage:{STAT} single use
-{KEYWORD}Special:{STAT} allows you to move the plant
+{KEYWORD}Uso:{STAT} uso único
+{KEYWORD}Especial:{STAT} permite mover uma planta
 {SHORTLINE}
-{FLAVOR}Despite Grave Buster's fearsome appearance, he wants everyone to know that he loves 
-kittens and spends his off hours volunteering at a local zombie rehabilitation center. "It's just the right thing to do," he says.
+{FLAVOR}Apesar de sua aparência assustadora, o Come-Cova quer que todos saibam que, na verdade, ele adora gatinhos. E mais: ele usa seu tempo livre como voluntário em um centro de reabilitação de zumbis, "Só estou fazendo a coisa certa", diz Come-Cova.
 
 [HYPNO_SHROOM_DESCRIPTION]
 When eaten, Hypno-shrooms will make a zombie turn around and fight for you.
